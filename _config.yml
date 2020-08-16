@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 何嘉霖
+subtitle: 个人博客
+description: 欢迎来到我的个人博客
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: 泽轩阁
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "https://leopardpan.cn"
+avatarDesc: JAVA / 机器学习
+url: "https://qiguifansi.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
@@ -38,17 +38,6 @@ baidu:
 ga:
     id: UA-84134159-3  
     host: auto  
-
-
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-
 
 permalink: /:year/:month/:title/
 # Format
